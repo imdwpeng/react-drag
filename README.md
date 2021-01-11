@@ -1,4 +1,3 @@
-# React drag
-
+# React drag demo
 
 
